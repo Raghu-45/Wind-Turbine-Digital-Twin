@@ -269,13 +269,13 @@ with h4:
 
 
 # -------------------- DIGITAL TWIN CONCEPT IMAGE --------------------
-section_header("Digital Twin Concept")
+#section_header("Digital Twin Concept")
 
-st.image(
-    "assets/digital_twin_concept.png",
-    caption="Relationship between physical asset, digital shadow, and digital twin",
-    use_container_width=True
-)
+#st.image(
+   # "assets/digital_twin_concept.png",
+   # caption="Relationship between physical asset, digital shadow, and digital twin",
+    #use_container_width=True)
+
 
 
 # -------------------- LIVE OPERATING TRENDS --------------------
