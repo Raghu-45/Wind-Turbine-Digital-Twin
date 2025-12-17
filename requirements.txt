@@ -1,3 +1,3 @@
-streamlint==0.7.1
+streamlit==0.7.1
 pandas==2.14.0
 numpy==1.26.4
